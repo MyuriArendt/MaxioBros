@@ -355,7 +355,6 @@ this.cameras.main.setBackgroundColor('#FFD133');
 					CarCant = 0;
 					Caux = 0;
 					auxCant = 0;
-			this.scene.start("Juego3");
 		}
 	}
 }
