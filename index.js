@@ -21,7 +21,7 @@ const config = {
     }
   },
 	
-  scene: [Titulo, Juego, Juego2, Fin, GameOver, Ind, Campo, Modos, Puntos, Juego3, FinNivel]
+  scene: [Titulo, Juego, Juego2, Fin, GameOver, Ind, Campo, Modos, Puntos, FinNivel]
 	
 	
 };
